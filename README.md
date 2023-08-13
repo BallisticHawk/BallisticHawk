@@ -1,15 +1,16 @@
 Hi 👋 My name is Ng Zi Yuan
 ===========================
 
-You can call me Sean and I Aspire to be a Full Stack Developer or Cybersecurity Analyst.
+You can call me Sean and I Aspire to be a Full Stack Developer and Cybersecurity Analyst.
 ----------------------------------------------------------------------------------------
 
 I'm still relatively new to the Programming/Linux power user field but I wish to learn more!
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [sng3051@gmail.com](mailto:sng3051@gmail.com)
-* 🧠  I'm learning JavaScript and Improving all the other languages I had learn
+* 🧠  I'm learning TypeScript and Improving all the other languages I had learn
 * 🤝  I'm open to collaborating on Anywhere literally.
+
 
 ### Skills
 
